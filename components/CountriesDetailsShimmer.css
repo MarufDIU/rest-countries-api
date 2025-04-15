@@ -1,0 +1,23 @@
+.button {
+  padding: 8px 30px;
+  box-shadow: rgba(0, 0, 0, 0.5) 0 0 8px 0;
+  background-color: #ccc;
+  border-radius: 4px;
+  margin-block: 80px;
+}
+
+.country-details {
+  gap: 80px;
+}
+
+.img-content {
+  height: 340px;
+  width: 560px;
+  background-color: #ccc;
+}
+
+.details-container {
+  height: 250px;
+  width: 600px;
+  background-color: #ccc;
+}
